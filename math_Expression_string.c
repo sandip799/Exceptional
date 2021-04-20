@@ -1,3 +1,8 @@
+/*Write a C program that reads an expression and evaluates it. Go to the editor
+Input:
+4
+10-2*3=
+8*(8+2-5)= */
 #include <stdio.h>
 #include <stdlib.h>
 char str[100];
